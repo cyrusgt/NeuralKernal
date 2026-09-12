@@ -1,0 +1,6 @@
+{
+  "name": "NeuralKernel",
+  "description": "Android 16 Home app launcher with modern launcher UI design and embedded Neural Wallpaper Studio featuring AI prompt-driven wallpaper generation and online curated collection downloads, plus self-upgrading OS kernel, local LLM, offline RAG, and hardware telemetry for Vivo Y31 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
